@@ -11,5 +11,5 @@ First Project regarding communication between code and a ESP Board  - (27-01-202
 
 ## Images
 
-<img width="206" height="167" alt="image" src="https://github.com/user-attachments/assets/63c26758-a053-4028-9119-816169c02e22" />
-" />
+<img width="323" height="167" alt="image" src="https://github.com/user-attachments/assets/2abb1dbe-69a8-49cb-aab5-0a99a5c3b373" />
+
