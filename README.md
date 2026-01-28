@@ -20,4 +20,3 @@ First Project regarding communication between code and a ESP Board Feather Board
 
 <img width="323" height="167" alt="image" src="https://github.com/user-attachments/assets/2abb1dbe-69a8-49cb-aab5-0a99a5c3b373" />
 
-https://user-images.githubusercontent.com/your-video-url.mp4
