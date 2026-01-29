@@ -3,7 +3,7 @@ First Project regarding communication between code and a ESP Board Feather Board
  
 ## How to run 
 
-- The file called Trafficlight has to be ran in the application called Arduino App Lab.
+- The file called Trafficlight.ino has to be ran in the application called Arduino App Lab.
 
 - Not only do u have to download the applications there are some extensions you will have to install as well.
 
